@@ -3,7 +3,7 @@
 
 
 
-### Hi there, I'm Tabatha 👋
+## Hi there, I'm Tabatha 👋
 
 I'm a fullstack student at NewForce
 

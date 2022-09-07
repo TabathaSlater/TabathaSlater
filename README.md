@@ -5,7 +5,7 @@
 
 ## Hi there, I'm Tabatha 👋
 
-I'm a fullstack student at NewForce
+I'm a fullstack student at NewForce. I am continuously building projects in my free time to learn and improve my skills!
 
 - 🌱 I enjoy learning new programming languages
 - 🔭 I’m currently learning Python
@@ -24,6 +24,7 @@ I'm a fullstack student at NewForce
 ![](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/C%20Sharp-E34F26?style=for-the-badge)
+![](https://img.shields.io/badge/MS%20Azure-1572B6?style=for-the-badge)
 
 
 <!--

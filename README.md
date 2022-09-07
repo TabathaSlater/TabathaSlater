@@ -1,4 +1,5 @@
-![Promoted to Senior Programmer (GIF) - Imgur](https://user-images.githubusercontent.com/106984127/188765038-adcf5809-6cba-42fb-807b-f09bd9fbfcf3.gif)
+![Promoted to Senior Programmer (GIF) - Imgur](https://user-images.githubusercontent.com/106984127/188767364-9c48a6dc-0a6a-47af-b6cf-c19931db1de9.gif)
+
 
 
 

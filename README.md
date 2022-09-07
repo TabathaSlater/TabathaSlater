@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Tabatha 👋
 
-I'm a fullstack student at NewForce, and 
+I'm a fullstack student at NewForce
 
 - 🌱 I enjoy learning new programming languages
 - 🔭 I’m currently learning Python

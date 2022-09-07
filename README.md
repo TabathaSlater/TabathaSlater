@@ -1,10 +1,13 @@
-![gif](https://imgur.com/OOpRj)
+![Promoted to Senior Programmer (GIF) - Imgur](https://user-images.githubusercontent.com/106984127/188765038-adcf5809-6cba-42fb-807b-f09bd9fbfcf3.gif)
+
 
 
 ### Hi there, I'm Tabatha 👋
 
+I'm a fullstack student at NewForce, and 
+
 - 🌱 I enjoy learning new programming languages
-- 🔭 I’m currently working on a Python course
+- 🔭 I’m currently learning Python
 - 📫 How to reach me: [**Taslater00@gmail.com**](gmail.com) OR [**LinkedIn**](https://linkedin.com)
 
 
@@ -19,8 +22,7 @@
 ![](https://img.shields.io/badge/.NETCore-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/CSharp-E34F26?style=for-the-badge)
-
+![](https://img.shields.io/badge/C%20Sharp-E34F26?style=for-the-badge)
 
 
 <!--

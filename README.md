@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/.NETCore-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/C#-E34F26?style=for-the-badge)
+![](https://img.shields.io/badge/C #-E34F26?style=for-the-badge)
 
 
 

@@ -5,7 +5,7 @@
 
 - 🌱 I enjoy learning new programming languages
 - 🔭 I’m currently working on a Python course
-- 📫 How to reach me: [**Taslater00@gmail.com**](taslater@gmail.com) OR [**LinkedIn**](https://linkedin.com)
+- 📫 How to reach me: [**Taslater00@gmail.com**](gmail.com) OR [**LinkedIn**](https://linkedin.com)
 
 
 ## Skills ⚡
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/.NETCore-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/"C#"-E34F26?style=for-the-badge)
+![](https://img.shields.io/badge/CSharp-E34F26?style=for-the-badge)
 
 
 

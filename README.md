@@ -1,4 +1,4 @@
-![gif]((http://imgur.com/gallery/OOpRj))
+![gif](http://imgur.com/gallery/OOpRj)
 
 
 ### Hi there, I'm Tabatha 👋

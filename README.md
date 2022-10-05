@@ -9,7 +9,7 @@ I'm a fullstack student at NewForce. I am continuously building projects in my f
 
 - 🌱 I enjoy learning new programming languages
 - 🔭 I’m currently learning Python
-- 📫 How to reach me: [**Taslater00@gmail.com**](gmail.com) OR [**LinkedIn**](https://linkedin.com)
+- 📫 How to reach me: [**Taslater00@gmail.com**](gmail.com) OR [**LinkedIn**](https://linkedin.com/in/tabatha-slater/)
 
 
 ## Skills ⚡

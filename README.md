@@ -5,7 +5,7 @@
 
 ## Hi there, I'm Tabatha 👋
 
-I'm a fullstack student at NewForce. I am continuously building projects in my free time to learn and improve my skills!
+I'm a junior full-stack developer from NewForce. I am continuously building projects in my free time to learn and improve my skills!
 
 - 🌱 I enjoy learning new programming languages
 - 🔭 I’m currently learning Python

@@ -8,7 +8,8 @@
 I'm a junior full-stack developer from NewForce. I am continuously building projects in my free time to learn and improve my skills!
 
 - 🌱 I enjoy learning new programming languages
-- 🔭 I’m currently learning Python
+- 🔭 I’m currently learning Python in my free time
+- 👯 I love collaboration and teamwork
 - 📫 How to reach me: [**LinkedIn**](https://linkedin.com/in/tabatha-slater/)
 
 

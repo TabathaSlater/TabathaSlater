@@ -24,7 +24,6 @@ I'm a junior full-stack developer from NewForce. I am continuously building proj
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/C%20Sharp-F7DF1E?style=for-the-badge)
 ![](https://img.shields.io/badge/.NET%20Core-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/MS%20Azure-43853D?style=for-the-badge)
 
 
 <!--
